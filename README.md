@@ -1,0 +1,2 @@
+# mandelbrot
+Mandelbrot rendering program
